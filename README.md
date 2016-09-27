@@ -1,20 +1,3 @@
-# vue-2.0-FamilyBucket
-
-  FamilyBucket with vue2.0 + vuex + vue-router + vue-resource + echarts3
-  
-
-  ![](/screen.gif)
-
-
-## vue2.0 全家桶
-
-- 套餐
-  - vue2
-  - vuex2
-  - vue-router2
-  - vue-resource
-  - echarts
-
 ## init
 
 ``` bash
