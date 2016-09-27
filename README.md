@@ -1,14 +1,9 @@
 ## init
 
 ``` bash
-# install dependencies
+# 初始化依赖
 npm install
 
-# serve in dev mode, with hot reload at localhost:8100
-npm run dev
-
-# build for production
-npm run build
-
-
-``
+# 运行
+npm run cooking watch
+```
